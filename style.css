@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(20, 79, 20);
+    color: bisque;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(100, 141, 100);
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    padding-left: 30%;
+    padding-top: 10px;
+   
+    }
